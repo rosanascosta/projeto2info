@@ -1,0 +1,315 @@
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+D:\Prog2\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\Aluno\Downloads\ABDC#\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmLogin.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmLogin.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmSite.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmLogin.resources
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmSite.resources
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmHq.resources
+C:\Users\Aluno\Desktop\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmAdmin.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmAdmin.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmHq.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmLogin.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmSite.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmAdmin.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmLogin.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmSite.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqBat.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HQMs.resources
+C:\Users\Aluno\Downloads\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqSup.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmLogin.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmSite.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqBat.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqMs.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqSup.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\CARLOS\Downloads\BDCsharp2 3 1 1\BDCsharp2 3 1\BDCsharp2 3\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmAdmin2.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.exe
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.deps.json
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.runtimeconfig.json
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.AssemblyReference.cache
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmAdmin2.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmCadastro.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmLogin.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmPrinc.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmSite.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqBat.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqMs.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqSup.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.Properties.Resources.resources
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.GenerateResource.cache
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfoInputs.cache
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.AssemblyInfo.cs
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.csproj.Up2Date
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\refint\BDCsharp2.dll
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.pdb
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.genruntimeconfig.cache
+C:\Users\CARLOS\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\ref\BDCsharp2.dll
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.FrmAdmin2.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqBat.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqMs.resources
+C:\Users\Aluno\Downloads\BDCsharp2\BDCsharp2\obj\Debug\net8.0-windows\BDCsharp2.HqSup.resources
