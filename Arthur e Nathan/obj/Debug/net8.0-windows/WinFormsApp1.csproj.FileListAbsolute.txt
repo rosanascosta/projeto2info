@@ -1,0 +1,218 @@
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\trabalho web 2 ano\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\trabalho web 2 ano\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\trabalho web 2 ano\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.Inicio.resources
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaI.resources
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaII.resources
+D:\trabalho web 2 ano\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaIII.resources
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaI.resources
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaII.resources
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaIII.resources
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.Inicio.resources
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaI.resources
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaII.resources
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaIII.resources
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.Inicio.resources
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\xampp\htdocs\TRABALHO 2 ANO\trabalho c#\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Trabalho C#\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaI.resources
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaII.resources
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaIII.resources
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.Inicio.resources
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Trabalho C#\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Trabalho C#\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\xampp\htdocs\Trabalho C#\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaI.resources
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaII.resources
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.FisicaIII.resources
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.Inicio.resources
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\xampp\htdocs\Trabalho C#\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
