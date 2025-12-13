@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE1006: Estilos de Nomenclatura
+dotnet_diagnostic.IDE1006.severity = none
+
+# IDE0063: Usar a instrução 'using' simples
+dotnet_diagnostic.IDE0063.severity = none

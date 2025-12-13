@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Joseir\source\repos\samuelbueno123\Rosana\Projeto\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\Admin\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\DeleteAdm\DeleteAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Esporte\Esporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagina Cadastro\PaginaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagina Configuracoes\Configuracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagina Configuracoes\ExcluiUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagina Configuracoes\Senha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagina Login\PaginaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagina Preferencias\Preferencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pagina Principal\PaginaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

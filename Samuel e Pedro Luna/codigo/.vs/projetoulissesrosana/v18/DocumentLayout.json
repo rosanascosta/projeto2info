@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\forms\\pagina principal\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\pagina principal\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\forms\\pagina configuracoes\\excluiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\pagina configuracoes\\excluiusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\data\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:data\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\utils\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:utils\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\forms\\pagina cadastro\\paginacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\pagina cadastro\\paginacadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\forms\\pagina login\\paginalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\pagina login\\paginalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\forms\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\forms\\pagina principal\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\pagina principal\\paginaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:models\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|c:\\users\\joseir\\source\\repos\\samuelbueno123\\rosana\\projeto\\forms\\admin\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EEFC34-D45D-491E-8F31-4CC072D0CD02}|Projeto.csproj|solutionrelative:forms\\admin\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcluiUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Configuracoes\\ExcluiUsuario.cs",
+              "RelativeDocumentMoniker": "Forms\\Pagina Configuracoes\\ExcluiUsuario.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Configuracoes\\ExcluiUsuario.cs",
+              "RelativeToolTip": "Forms\\Pagina Configuracoes\\ExcluiUsuario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:10:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaginaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Principal\\PaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\Pagina Principal\\PaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Principal\\PaginaPrincipal.cs",
+              "RelativeToolTip": "Forms\\Pagina Principal\\PaginaPrincipal.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAArwG4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T22:55:04.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseForm.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\BaseForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\BaseForm.cs",
+              "RelativeToolTip": "Forms\\BaseForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:48:58.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\BaseForm.cs",
+              "RelativeDocumentMoniker": "Forms\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\BaseForm.cs [Projeto]",
+              "RelativeToolTip": "Forms\\BaseForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:48:53.183Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:47:22.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Models\\Sessao.cs",
+              "RelativeDocumentMoniker": "Models\\Sessao.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Models\\Sessao.cs",
+              "RelativeToolTip": "Models\\Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:47:22.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaginaPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Principal\\PaginaPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\Pagina Principal\\PaginaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Principal\\PaginaPrincipal.cs [Projeto]",
+              "RelativeToolTip": "Forms\\Pagina Principal\\PaginaPrincipal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T02:45:55.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Admin\\Admin.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\Admin.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Admin\\Admin.cs",
+              "RelativeToolTip": "Forms\\Admin\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T23:03:08.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Data\\BD.cs",
+              "RelativeDocumentMoniker": "Data\\BD.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Data\\BD.cs",
+              "RelativeToolTip": "Data\\BD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T22:41:58.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginaLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Login\\PaginaLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\Pagina Login\\PaginaLogin.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Login\\PaginaLogin.cs",
+              "RelativeToolTip": "Forms\\Pagina Login\\PaginaLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:02:13.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Utils\\Conta.cs",
+              "RelativeDocumentMoniker": "Utils\\Conta.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Utils\\Conta.cs",
+              "RelativeToolTip": "Utils\\Conta.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T22:57:15.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginaCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Cadastro\\PaginaCadastro.cs",
+              "RelativeDocumentMoniker": "Forms\\Pagina Cadastro\\PaginaCadastro.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\Pagina Cadastro\\PaginaCadastro.cs",
+              "RelativeToolTip": "Forms\\Pagina Cadastro\\PaginaCadastro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T03:05:07.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Forms\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Joseir\\source\\repos\\samuelbueno123\\Rosana\\Projeto\\Forms\\GlobalUsings.cs",
+              "RelativeToolTip": "Forms\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T22:52:19.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
